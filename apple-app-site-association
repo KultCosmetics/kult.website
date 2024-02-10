@@ -1,0 +1,11 @@
+{
+    "applinks": {
+    "apps": [],
+    "details": [
+        {
+            "appID": "JSVP8TD46H.beauty.kult.app",
+            "paths": ["*"]
+        }
+    ]
+    }
+}
