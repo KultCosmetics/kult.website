@@ -412,7 +412,7 @@ li {
 
 .rich-text-content {
   color: #000;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   margin-bottom: 0;
   margin-left: auto;
   margin-right: auto;
